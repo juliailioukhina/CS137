@@ -1,3 +1,6 @@
+/*
+prnts the result of the integer division, rounding away from 0
+*/
 #include <stdio.h>
 int main (void) {
     int num1;

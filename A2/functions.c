@@ -1,3 +1,10 @@
+/*
+  void square(int w); prints the numbers 1,2,....,w 2 in a square shape (of size wxw) on w
+lines of output  
+    void spiral(int w); prints the numbers 1,2,....,w 2 in a “spiral” order (compared with
+the square shape from part I)
+*/
+
 #include "functions.h"
 #include <stdio.h>
 
